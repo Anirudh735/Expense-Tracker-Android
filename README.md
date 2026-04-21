@@ -16,3 +16,12 @@ Tech Stack
 - UI Design:** XML (ConstraintLayout, Material Design)
 - Library:** [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) (for data visualization)
 - Data Persistence:** SharedPreferences (for user profile)
+<p align="center">
+  <img src="Screenshot_20260421-132353.jpg" width="250" >
+  <img src="Screenshot_20260421-132343.jpg" width="250" >
+  <img src="Screenshot_20260421-132403.jpg" width="250" >
+  <img src="Screenshot_20260421-132416.jpg" width="250" >
+  <img src="Screenshot_20260421-132423.jpg" width="250" >
+  <img src="Screenshot_20260421-132436.jpg" width="250" >
+  
+</p>
